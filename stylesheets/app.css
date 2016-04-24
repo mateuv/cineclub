@@ -1,0 +1,17 @@
+#search-input {
+	width: 100%;
+	height: 60px;
+	border: none;
+	border-radius: none;
+	text-align: center;
+	font-size: 30px;
+	color: #353535;
+}
+#random-btn {
+	background-color: #7C334F;
+	border-radius: none;
+	border: 2px solid #CD596B;
+	color: #ECE4D8;
+	cursor: pointer;
+	font-weight: bold;
+}
