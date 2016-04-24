@@ -2,6 +2,7 @@
 import csv
 import re
 import json
+import os
 
 """
 Given pelis.csv this script computes pelis.json
@@ -32,3 +33,8 @@ if __name__ == '__main__':
 		})
 
 		json.dump(result, open('pelis.json', 'w'), indent=2)
+
+		dir_name = "%s_%s"%(date, row[0])
+
+		if not os.path.isdir('proyecciones/%s'%dir_name):
+			os.mkdir('proyecciones/%s'%dir_name)
