@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
         # add padding (jsonp)
         with open('pelis.jsonp', 'w') as jsonp:
-            jsonp.write('mvm.items(')
+            jsonp.write('mvm.loadItems(')
             jsonp.write(json_data)
             jsonp.write(');')
 
