@@ -13,6 +13,7 @@
     <script type="text/javascript" src="javascripts/modernizr.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.0/knockout-min.js"></script>
     <script type="text/javascript">
       $(document).ready(function () {
         $('#main_content').headsmart()
@@ -54,12 +55,21 @@
         <p>Escribe un título, nombre del director, país o año para encontrar películas o simplemente presiona el botón <button id="random-btn">random</button> para ver un título al azar. Puedes ver el historial del cineclub navegando hacia abajo en esta página.</p>
 
         <div id="search-box">
-          <input id="search-input" placeholder="Escribe algo...">
+          <input id="search-input" placeholder="Escribe algo..." data-bind="textInput: filter">
         </div>
-        <div id="items-box">
+        <div id="items-box" data-bind="foreach: shownItems">
           <div class="item">
-            <div class="item-image"></div>
-            <div class="item-content"></div>
+            <div class="item-image">
+              <img src="">
+            </div>
+            <div class="item-content">
+              <h3>Título: <small data-bind="text: title"></small></h3>
+              <h3>Título original: <small data-bind="text: original_title"></small></h3>
+              <h3>Director: <small data-bind="text: director"></small></h3>
+              <h3>País: <small data-bind="text: country"></small></h3>
+              <h3>Año: <small data-bind="text: year"></small></h3>
+              <h3>Se proyectó: <small data-bind="text: date"></small></h3>
+            </div>
           </div>
         </div>
 
