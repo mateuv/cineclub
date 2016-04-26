@@ -34,14 +34,14 @@ if __name__ == '__main__':
             'year'          : row[3],
             'country'       : row[4],
             'date'          : date,
-            'fqn'           : varify(fqn),
+            'fqn'           : varify(fqn).lower(),
         })
 
         json_data = json.dumps(result, indent=2)
 
         # add padding (jsonp)
         with open('pelis.jsonp', 'w') as jsonp:
-            jsonp.write('loadMovieData(')
+            jsonp.write('mvm.items(')
             jsonp.write(json_data)
             jsonp.write(');')
 
