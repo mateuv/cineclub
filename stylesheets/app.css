@@ -17,6 +17,7 @@
 }
 .item {
 	height: 200px;
+	margin-top: 20px;
 }
 .item .item-image {
 	width: 30%;
