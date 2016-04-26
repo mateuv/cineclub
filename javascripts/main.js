@@ -8,6 +8,12 @@ function Movie(data) {
 	self.country        = ko.observable(data.country);
 	self.date           = ko.observable(data.date);
 	self.fqn            = ko.observable(data.fqn);
+
+	self.image = ko.pureComputed(function () {
+		return 'https://raw.githubusercontent.com/mateuv/cineclub/master/proyecciones/'+
+			self.date()+'_'+self.title()+
+			'/poster.jpg';
+	});
 }
 
 function MainViewModel() {

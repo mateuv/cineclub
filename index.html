@@ -60,7 +60,7 @@
         <div id="items-box" data-bind="foreach: shownItems">
           <div class="item">
             <div class="item-image">
-              <img src="">
+              <img data-bind="attr: {src: image}">
             </div>
             <div class="item-content">
               <h3>Título: <small data-bind="text: title"></small></h3>
