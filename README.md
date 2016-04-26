@@ -6,3 +6,4 @@ Aquí se pueden buscar en el archivo del cineclub
 
 * añadir un contador del número de resultados mostrados
 * añadir moment.js para mostrar de forma humana cuándo se proyectó
+* scroll infinito
