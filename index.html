@@ -55,7 +55,7 @@
         <p>Escribe un título, nombre del director, país o año para encontrar películas o simplemente presiona el botón <button id="random-btn">random</button> para ver un título al azar. Puedes ver el historial del cineclub navegando hacia abajo en esta página.</p>
 
         <div id="search-box">
-          <input id="search-input" placeholder="Escribe algo..." data-bind="textInput: filter">
+          <input id="search-input" placeholder="Aguanta la vara..." data-bind="textInput: filter, attr: {placeholder: placeholder}">
         </div>
         <div id="items-box" data-bind="foreach: shownItems">
           <div class="item">

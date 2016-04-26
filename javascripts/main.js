@@ -19,9 +19,10 @@ function Movie(data) {
 function MainViewModel() {
 	var self = this;
 
-	self.items  = ko.observableArray([]);
-	self.filter = ko.observable('');
-	self.shownItems = ko.pureComputed(function () {
+	self.placeholder = ko.observable('Aguanta la vara...');
+	self.items       = ko.observableArray([]);
+	self.filter      = ko.observable('');
+	self.shownItems  = ko.pureComputed(function () {
 		return self.items().filter(function (item, index) {
 			if (self.filter()) {
 				return item.fqn().match(self.filter().toLowerCase());
@@ -35,6 +36,7 @@ function MainViewModel() {
 		self.items(items.map(function (item) {
 			return new Movie(item);
 		}));
+		self.placeholder('Escribe algo...');
 	};
 
 	self.load = function (done) {
