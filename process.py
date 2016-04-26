@@ -37,7 +37,13 @@ if __name__ == '__main__':
             'fqn'           : varify(fqn),
         })
 
-        json.dump(result, open('pelis.json', 'w'), indent=2)
+        json_data = json.dumps(result, indent=2)
+
+        # add padding (jsonp)
+        with open('pelis.jsonp', 'w') as jsonp:
+            jsonp.write('loadMovieData(')
+            jsonp.write(json_data)
+            jsonp.write(');')
 
         dir_name = "%s_%s"%(date, row[0])
 
