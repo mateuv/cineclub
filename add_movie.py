@@ -16,13 +16,14 @@ if __name__ == '__main__':
 		item[attr] = input('%s: '%attr)
 	item['fqn'] = ("%s (%s) %s %s [%s]"%(item['title'], item['original_title'], item['director'], item['year'], item['country'])).lower()
 
-	data = json.load(open('pelis.json'))
+	with open('pelis.jsonp') as json_file:
+		data = json.loads(json_file.read()[14:-2])
 
 	data.insert(0, item)
 
 	with open('pelis.jsonp', 'w') as jsonp:
-			jsonp.write('mvm.items(')
-			jsonp.write(json_data)
+			jsonp.write('mvm.loadItems(')
+			jsonp.write(json.dumps(data, indent=2))
 			jsonp.write(');')
 
 	dir_name = 'proyecciones/%s_%s'%(item['date'], item['title'])
