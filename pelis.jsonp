@@ -1,623 +1,632 @@
 mvm.loadItems([
   {
-    "year": "2005",
+    "title": "We need to talk about Kevin",
+    "original_title": "We need to talk about Kevin",
+    "country": "Reino Unido",
+    "fqn": "we need to talk about kevin (we need to talk about kevin) lynne ramsay 2011 [reino unido]",
+    "date": "2016-04-28",
+    "year": "2011",
+    "director": "Lynne Ramsay"
+  },
+  {
     "title": "La provocaci\u00f3n",
     "original_title": "Match Point",
     "country": "Reino Unido",
-    "director": "Woody Allen",
+    "fqn": "la provocacion (match point) woody allen 2005 [reino unido]",
     "date": "2016-04-21",
-    "fqn": "la provocacion (match point) woody allen 2005 [reino unido]"
+    "year": "2005",
+    "director": "Woody Allen"
   },
   {
-    "year": "2012",
     "title": "Moonrise Kingdom",
     "original_title": "Moonrise Kingdom",
     "country": "Estados Unidos",
-    "director": "Wes Anderson",
+    "fqn": "moonrise kingdom (moonrise kingdom) wes anderson 2012 [estados unidos]",
     "date": "2016-04-14",
-    "fqn": "moonrise kingdom (moonrise kingdom) wes anderson 2012 [estados unidos]"
+    "year": "2012",
+    "director": "Wes Anderson"
   },
   {
-    "year": "1994",
     "title": "Before the Rain",
     "original_title": "Pred Dozdot",
     "country": "Macedonia",
-    "director": "Milcho Manchevski",
+    "fqn": "before the rain (pred dozdot) milcho manchevski 1994 [macedonia]",
     "date": "2016-04-07",
-    "fqn": "before the rain (pred dozdot) milcho manchevski 1994 [macedonia]"
+    "year": "1994",
+    "director": "Milcho Manchevski"
   },
   {
-    "year": "2012",
     "title": "Paulette",
     "original_title": "Paulette",
     "country": "Francia",
-    "director": "J\u00e9r\u00f4me Enrico",
+    "fqn": "paulette (paulette) jerome enrico 2012 [francia]",
     "date": "2016-03-31",
-    "fqn": "paulette (paulette) jerome enrico 2012 [francia]"
+    "year": "2012",
+    "director": "J\u00e9r\u00f4me Enrico"
   },
   {
-    "year": "2012",
     "title": "Broken",
     "original_title": "Broken",
     "country": "Reino Unido",
-    "director": "Rufus Norris",
+    "fqn": "broken (broken) rufus norris 2012 [reino unido]",
     "date": "2016-03-10",
-    "fqn": "broken (broken) rufus norris 2012 [reino unido]"
+    "year": "2012",
+    "director": "Rufus Norris"
   },
   {
-    "year": "2013",
     "title": "Enemy",
     "original_title": "Enemy",
     "country": "Canad\u00e1",
-    "director": "Denis Villeneuve",
+    "fqn": "enemy (enemy) denis villeneuve 2013 [canada]",
     "date": "2016-03-03",
-    "fqn": "enemy (enemy) denis villeneuve 2013 [canada]"
+    "year": "2013",
+    "director": "Denis Villeneuve"
   },
   {
-    "year": "2002",
     "title": "Sin Nombre",
     "original_title": "Ying xiong",
     "country": "China",
-    "director": "Yimou Zhang",
+    "fqn": "sin nombre (ying xiong) yimou zhang 2002 [china]",
     "date": "2015-11-20",
-    "fqn": "sin nombre (ying xiong) yimou zhang 2002 [china]"
+    "year": "2002",
+    "director": "Yimou Zhang"
   },
   {
-    "year": "2003",
     "title": "Dos Hermanas",
     "original_title": "Hongryeon Janghwa",
     "country": "Corea del Sur",
-    "director": "Kim Jee-woon",
+    "fqn": "dos hermanas (hongryeon janghwa) kim jee-woon 2003 [corea del sur]",
     "date": "2015-11-13",
-    "fqn": "dos hermanas (hongryeon janghwa) kim jee-woon 2003 [corea del sur]"
+    "year": "2003",
+    "director": "Kim Jee-woon"
   },
   {
-    "year": "1998",
     "title": "Following",
     "original_title": "Following",
     "country": "Reino Unido",
-    "director": "Christopher Nolan",
+    "fqn": "following (following) christopher nolan 1998 [reino unido]",
     "date": "2015-11-06",
-    "fqn": "following (following) christopher nolan 1998 [reino unido]"
+    "year": "1998",
+    "director": "Christopher Nolan"
   },
   {
-    "year": "2007",
     "title": "Death Proof",
     "original_title": "Death Proof",
     "country": "Estados Unidos",
-    "director": "Quentin Tarantino",
+    "fqn": "death proof (death proof) quentin tarantino 2007 [estados unidos]",
     "date": "2015-10-30",
-    "fqn": "death proof (death proof) quentin tarantino 2007 [estados unidos]"
+    "year": "2007",
+    "director": "Quentin Tarantino"
   },
   {
-    "year": "2014",
     "title": "Magia a la luz de la luna",
     "original_title": "Magic in the Moonlight",
     "country": "Estados Unidos",
-    "director": "Woody Allen",
+    "fqn": "magia a la luz de la luna (magic in the moonlight) woody allen 2014 [estados unidos]",
     "date": "2015-10-23",
-    "fqn": "magia a la luz de la luna (magic in the moonlight) woody allen 2014 [estados unidos]"
+    "year": "2014",
+    "director": "Woody Allen"
   },
   {
-    "year": "2006",
     "title": "Paprika",
     "original_title": "Paprika",
     "country": "Jap\u00f3n",
-    "director": "Satoshi Kon",
+    "fqn": "paprika (paprika) satoshi kon 2006 [japon]",
     "date": "2015-10-16",
-    "fqn": "paprika (paprika) satoshi kon 2006 [japon]"
+    "year": "2006",
+    "director": "Satoshi Kon"
   },
   {
-    "year": "1993",
     "title": "El D\u00eda de la Marmota",
     "original_title": "Groundhog Day",
     "country": "Estados Unidos",
-    "director": "Harold Ramis",
+    "fqn": "el dia de la marmota (groundhog day) harold ramis 1993 [estados unidos]",
     "date": "2015-10-09",
-    "fqn": "el dia de la marmota (groundhog day) harold ramis 1993 [estados unidos]"
+    "year": "1993",
+    "director": "Harold Ramis"
   },
   {
-    "year": "2004",
     "title": "Primer",
     "original_title": "Primer",
     "country": "Estados Unidos",
-    "director": "Shane Carruth",
+    "fqn": "primer (primer) shane carruth 2004 [estados unidos]",
     "date": "2015-10-02",
-    "fqn": "primer (primer) shane carruth 2004 [estados unidos]"
+    "year": "2004",
+    "director": "Shane Carruth"
   },
   {
-    "year": "2002",
     "title": "Ciudad de Dios",
     "original_title": "Cidade de Deus",
     "country": "Brasil",
-    "director": "Fernando Meirelles, K\u00e1tia Lund",
+    "fqn": "ciudad de dios (cidade de deus) fernando meirelles, katia lund 2002 [brasil]",
     "date": "2014-06-06",
-    "fqn": "ciudad de dios (cidade de deus) fernando meirelles, katia lund 2002 [brasil]"
+    "year": "2002",
+    "director": "Fernando Meirelles, K\u00e1tia Lund"
   },
   {
-    "year": "1991",
     "title": "Los Libros de Pr\u00f3spero",
     "original_title": "Prospero's Books",
     "country": "Reino Unido",
-    "director": "Peter Greenaway",
+    "fqn": "los libros de prospero (prospero's books) peter greenaway 1991 [reino unido]",
     "date": "2014-05-16",
-    "fqn": "los libros de prospero (prospero's books) peter greenaway 1991 [reino unido]"
+    "year": "1991",
+    "director": "Peter Greenaway"
   },
   {
-    "year": "1998",
     "title": "El Viol\u00edn Rojo",
     "original_title": "The Red Violin",
     "country": "Canada",
-    "director": "Fran\u00e7ois Girard",
+    "fqn": "el violin rojo (the red violin) francois girard 1998 [canada]",
     "date": "2014-05-09",
-    "fqn": "el violin rojo (the red violin) francois girard 1998 [canada]"
+    "year": "1998",
+    "director": "Fran\u00e7ois Girard"
   },
   {
-    "year": "1997",
     "title": "Abre los Ojos",
     "original_title": "Abre los Ojos",
     "country": "Espa\u00f1a",
-    "director": "Alejandro Amen\u00e1bar",
+    "fqn": "abre los ojos (abre los ojos) alejandro amenabar 1997 [espana]",
     "date": "2014-04-11",
-    "fqn": "abre los ojos (abre los ojos) alejandro amenabar 1997 [espana]"
+    "year": "1997",
+    "director": "Alejandro Amen\u00e1bar"
   },
   {
-    "year": "1985",
     "title": "Tampopo",
     "original_title": "Tampopo",
     "country": "Jap\u00f3n",
-    "director": "J\u00fbz\u00f4 Itami",
+    "fqn": "tampopo (tampopo) juzo itami 1985 [japon]",
     "date": "2014-04-04",
-    "fqn": "tampopo (tampopo) juzo itami 1985 [japon]"
+    "year": "1985",
+    "director": "J\u00fbz\u00f4 Itami"
   },
   {
-    "year": "2007",
     "title": "Pers\u00e9polis",
     "original_title": "Persepolis",
     "country": "Francia",
-    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "fqn": "persepolis (persepolis) vincent paronnaud, marjane satrapi 2007 [francia]",
     "date": "2014-04-28",
-    "fqn": "persepolis (persepolis) vincent paronnaud, marjane satrapi 2007 [francia]"
+    "year": "2007",
+    "director": "Vincent Paronnaud, Marjane Satrapi"
   },
   {
-    "year": "2009",
     "title": "Whatever Works",
     "original_title": "Watever Works",
     "country": "Estados Unidos",
-    "director": "Woody Allen",
+    "fqn": "whatever works (watever works) woody allen 2009 [estados unidos]",
     "date": "2014-03-21",
-    "fqn": "whatever works (watever works) woody allen 2009 [estados unidos]"
+    "year": "2009",
+    "director": "Woody Allen"
   },
   {
-    "year": "1998",
     "title": "La Cena de los Idiotas",
     "original_title": "Le d\u00eener de cons",
     "country": "Francia",
-    "director": "Francis Veber",
+    "fqn": "la cena de los idiotas (le diner de cons) francis veber 1998 [francia]",
     "date": "2014-03-14",
-    "fqn": "la cena de los idiotas (le diner de cons) francis veber 1998 [francia]"
+    "year": "1998",
+    "director": "Francis Veber"
   },
   {
-    "year": "2004",
     "title": "3 Extremes",
     "original_title": "Saam gaang yi",
     "country": "Corea del Sur",
-    "director": "Fruit Chan, Takashi Miike, Chan-wook Park",
+    "fqn": "3 extremes (saam gaang yi) fruit chan, takashi miike, chan-wook park 2004 [corea del sur]",
     "date": "2013-11-15",
-    "fqn": "3 extremes (saam gaang yi) fruit chan, takashi miike, chan-wook park 2004 [corea del sur]"
+    "year": "2004",
+    "director": "Fruit Chan, Takashi Miike, Chan-wook Park"
   },
   {
-    "year": "1982",
     "title": "Blade Runner",
     "original_title": "Blade Runner",
     "country": "Estados Unidos",
-    "director": "Ridley Scott",
+    "fqn": "blade runner (blade runner) ridley scott 1982 [estados unidos]",
     "date": "2013-11-08",
-    "fqn": "blade runner (blade runner) ridley scott 1982 [estados unidos]"
+    "year": "1982",
+    "director": "Ridley Scott"
   },
   {
-    "year": "2005",
     "title": "13 Tzameti",
     "original_title": "13 Tzameti",
     "country": "Francia",
-    "director": "G\u00e9la Babluani",
+    "fqn": "13 tzameti (13 tzameti) gela babluani 2005 [francia]",
     "date": "2013-10-25",
-    "fqn": "13 tzameti (13 tzameti) gela babluani 2005 [francia]"
+    "year": "2005",
+    "director": "G\u00e9la Babluani"
   },
   {
-    "year": "2001",
     "title": "El Experimento",
     "original_title": "Das Experiment",
     "country": "Alemania",
-    "director": "Oliver Hirschbiegel",
+    "fqn": "el experimento (das experiment) oliver hirschbiegel 2001 [alemania]",
     "date": "2013-10-18",
-    "fqn": "el experimento (das experiment) oliver hirschbiegel 2001 [alemania]"
+    "year": "2001",
+    "director": "Oliver Hirschbiegel"
   },
   {
-    "year": "1995",
     "title": "La Ciudad de los Ni\u00f1os Perdidos",
     "original_title": "La cit\u00e9 des enfants perdus",
     "country": "Francia",
-    "director": "Marc Caro, Jean-Pierre Jeunet",
+    "fqn": "la ciudad de los ninos perdidos (la cite des enfants perdus) marc caro, jean-pierre jeunet 1995 [francia]",
     "date": "2013-10-04",
-    "fqn": "la ciudad de los ninos perdidos (la cite des enfants perdus) marc caro, jean-pierre jeunet 1995 [francia]"
+    "year": "1995",
+    "director": "Marc Caro, Jean-Pierre Jeunet"
   },
   {
-    "year": "1992",
     "title": "Perros de Reserva",
     "original_title": "Reservoir Dogs",
     "country": "Estados Unidos",
-    "director": "Quentin Tarantino",
+    "fqn": "perros de reserva (reservoir dogs) quentin tarantino 1992 [estados unidos]",
     "date": "2013-09-20",
-    "fqn": "perros de reserva (reservoir dogs) quentin tarantino 1992 [estados unidos]"
+    "year": "1992",
+    "director": "Quentin Tarantino"
   },
   {
-    "year": "1992",
     "title": "L\u00e9olo",
     "original_title": "L\u00e9olo",
     "country": "Canad\u00e1",
-    "director": "Jean-Claude Lauzon",
+    "fqn": "leolo (leolo) jean-claude lauzon 1992 [canada]",
     "date": "2013-09-13",
-    "fqn": "leolo (leolo) jean-claude lauzon 1992 [canada]"
+    "year": "1992",
+    "director": "Jean-Claude Lauzon"
   },
   {
-    "year": "1998",
     "title": "El Tren de la Vida",
     "original_title": "Train de vie",
     "country": "Francia",
-    "director": "Radu Mihaileanu",
+    "fqn": "el tren de la vida (train de vie) radu mihaileanu 1998 [francia]",
     "date": "2013-09-06",
-    "fqn": "el tren de la vida (train de vie) radu mihaileanu 1998 [francia]"
+    "year": "1998",
+    "director": "Radu Mihaileanu"
   },
   {
-    "year": "1995",
     "title": "Underground",
     "original_title": "Underground",
     "country": "Yugoslavia",
-    "director": "Emir Kusturica",
+    "fqn": "underground (underground) emir kusturica 1995 [yugoslavia]",
     "date": "2013-05-31",
-    "fqn": "underground (underground) emir kusturica 1995 [yugoslavia]"
+    "year": "1995",
+    "director": "Emir Kusturica"
   },
   {
-    "year": "2003",
     "title": "Dogville",
     "original_title": "Dogville",
     "country": "Dinamarca",
-    "director": "Lars Von Trier",
+    "fqn": "dogville (dogville) lars von trier 2003 [dinamarca]",
     "date": "2013-05-24",
-    "fqn": "dogville (dogville) lars von trier 2003 [dinamarca]"
+    "year": "2003",
+    "director": "Lars Von Trier"
   },
   {
-    "year": "2010",
     "title": "De Dioses y de Hombres",
     "original_title": "Of Gods and Men",
     "country": "Francia",
-    "director": "Xavier Beauvois",
+    "fqn": "de dioses y de hombres (of gods and men) xavier beauvois 2010 [francia]",
     "date": "2013-05-17",
-    "fqn": "de dioses y de hombres (of gods and men) xavier beauvois 2010 [francia]"
+    "year": "2010",
+    "director": "Xavier Beauvois"
   },
   {
-    "year": "2009",
     "title": "Canino",
     "original_title": "Kynodontas",
     "country": "Grecia",
-    "director": "Yorgos Lanthimos",
+    "fqn": "canino (kynodontas) yorgos lanthimos 2009 [grecia]",
     "date": "2013-05-03",
-    "fqn": "canino (kynodontas) yorgos lanthimos 2009 [grecia]"
+    "year": "2009",
+    "director": "Yorgos Lanthimos"
   },
   {
-    "year": "1971",
     "title": "La Naranja Mec\u00e1nica",
     "original_title": "A Clockwork Orange",
     "country": "Reino Unido",
-    "director": "Stanley Kubrik",
+    "fqn": "la naranja mecanica (a clockwork orange) stanley kubrik 1971 [reino unido]",
     "date": "2013-04-26",
-    "fqn": "la naranja mecanica (a clockwork orange) stanley kubrik 1971 [reino unido]"
+    "year": "1971",
+    "director": "Stanley Kubrik"
   },
   {
-    "year": "2001",
     "title": "Donnie Darko",
     "original_title": "Donnie Darko",
     "country": "Estados Unidos",
-    "director": "Richard Kelly",
+    "fqn": "donnie darko (donnie darko) richard kelly 2001 [estados unidos]",
     "date": "2013-04-19",
-    "fqn": "donnie darko (donnie darko) richard kelly 2001 [estados unidos]"
+    "year": "2001",
+    "director": "Richard Kelly"
   },
   {
-    "year": "2003",
     "title": "La Gran Seducci\u00f3n",
     "original_title": "La grande s\u00e9duction",
     "country": "Canad\u00e1",
-    "director": "Jean-Fran\u00e7ois Pouliot",
+    "fqn": "la gran seduccion (la grande seduction) jean-francois pouliot 2003 [canada]",
     "date": "2013-04-12",
-    "fqn": "la gran seduccion (la grande seduction) jean-francois pouliot 2003 [canada]"
+    "year": "2003",
+    "director": "Jean-Fran\u00e7ois Pouliot"
   },
   {
-    "year": "2001",
     "title": "El Viaje de Chihiro",
     "original_title": "Sen to Chihiro no kamikakushi (Spirited Away)",
     "country": "Jap\u00f3n",
-    "director": "Hayao Miyazaki",
+    "fqn": "el viaje de chihiro (sen to chihiro no kamikakushi (spirited away)) hayao miyazaki 2001 [japon]",
     "date": "2013-04-05",
-    "fqn": "el viaje de chihiro (sen to chihiro no kamikakushi (spirited away)) hayao miyazaki 2001 [japon]"
+    "year": "2001",
+    "director": "Hayao Miyazaki"
   },
   {
-    "year": "2000",
     "title": "O Brother Where Art Thou?",
     "original_title": "O Brother, Where Art Thou?",
     "country": "Estados Unidos",
-    "director": "Joel Coen, Ethan Coen",
+    "fqn": "o brother where art thou? (o brother, where art thou?) joel coen, ethan coen 2000 [estados unidos]",
     "date": "2013-03-15",
-    "fqn": "o brother where art thou? (o brother, where art thou?) joel coen, ethan coen 2000 [estados unidos]"
+    "year": "2000",
+    "director": "Joel Coen, Ethan Coen"
   },
   {
-    "year": "2009",
     "title": "3 idiotas",
     "original_title": "3 idiots",
     "country": "India",
-    "director": "Rajkumar Hirani",
+    "fqn": "3 idiotas (3 idiots) rajkumar hirani 2009 [india]",
     "date": "2013-03-08",
-    "fqn": "3 idiotas (3 idiots) rajkumar hirani 2009 [india]"
+    "year": "2009",
+    "director": "Rajkumar Hirani"
   },
   {
-    "year": "2002",
     "title": "Simpat\u00eda por el se\u00f1or Venganza",
     "original_title": "Simpathy for Mr.Vengance",
     "country": "Corea del Sur",
-    "director": "Park Chan-wook",
+    "fqn": "simpatia por el senor venganza (simpathy for mr.vengance) park chan-wook 2002 [corea del sur]",
     "date": "2013-03-01",
-    "fqn": "simpatia por el senor venganza (simpathy for mr.vengance) park chan-wook 2002 [corea del sur]"
+    "year": "2002",
+    "director": "Park Chan-wook"
   },
   {
-    "year": "1982",
     "title": "Koyaanisqatsi",
     "original_title": "Koyaanisqatsi - Life out of balance",
     "country": "Estados Unidos",
-    "director": "Godfrey Reggio",
+    "fqn": "koyaanisqatsi (koyaanisqatsi - life out of balance) godfrey reggio 1982 [estados unidos]",
     "date": "2012-11-09",
-    "fqn": "koyaanisqatsi (koyaanisqatsi - life out of balance) godfrey reggio 1982 [estados unidos]"
+    "year": "1982",
+    "director": "Godfrey Reggio"
   },
   {
-    "year": "1996",
     "title": "El Libro de Cabecera",
     "original_title": "The pillow book",
     "country": "Reino Unido",
-    "director": "Peter Greenaway",
+    "fqn": "el libro de cabecera (the pillow book) peter greenaway 1996 [reino unido]",
     "date": "2012-10-26",
-    "fqn": "el libro de cabecera (the pillow book) peter greenaway 1996 [reino unido]"
+    "year": "1996",
+    "director": "Peter Greenaway"
   },
   {
-    "year": "2006",
     "title": "Madeinusa",
     "original_title": "Madeinusa",
     "country": "Per\u00fa",
-    "director": "Claudia Llosa",
+    "fqn": "madeinusa (madeinusa) claudia llosa 2006 [peru]",
     "date": "2012-10-19",
-    "fqn": "madeinusa (madeinusa) claudia llosa 2006 [peru]"
+    "year": "2006",
+    "director": "Claudia Llosa"
   },
   {
-    "year": "1999",
     "title": "Tuvalu",
     "original_title": "Tuvalu",
     "country": "Alemania",
-    "director": "Veit Helmer",
+    "fqn": "tuvalu (tuvalu) veit helmer 1999 [alemania]",
     "date": "2012-10-12",
-    "fqn": "tuvalu (tuvalu) veit helmer 1999 [alemania]"
+    "year": "1999",
+    "director": "Veit Helmer"
   },
   {
-    "year": "2010",
     "title": "Scott Pilgrim contra el Mundo",
     "original_title": "Scott Pilgrim vs. The World",
     "country": "Estados Unidos",
-    "director": "Edgar Wright",
+    "fqn": "scott pilgrim contra el mundo (scott pilgrim vs. the world) edgar wright 2010 [estados unidos]",
     "date": "2012-10-05",
-    "fqn": "scott pilgrim contra el mundo (scott pilgrim vs. the world) edgar wright 2010 [estados unidos]"
+    "year": "2010",
+    "director": "Edgar Wright"
   },
   {
-    "year": "1959",
     "title": "Los 400 golpes",
     "original_title": "Les quatre cents coups",
     "country": "Francia",
-    "director": "Fran\u00e7ois Truffaut",
+    "fqn": "los 400 golpes (les quatre cents coups) francois truffaut 1959 [francia]",
     "date": "2012-09-28",
-    "fqn": "los 400 golpes (les quatre cents coups) francois truffaut 1959 [francia]"
+    "year": "1959",
+    "director": "Fran\u00e7ois Truffaut"
   },
   {
-    "year": "2006",
     "title": "Borat",
     "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
     "country": "Estados Unidos",
-    "director": "Larry Charles",
+    "fqn": "borat (borat: cultural learnings of america for make benefit glorious nation of kazakhstan) larry charles 2006 [estados unidos]",
     "date": "2012-09-21",
-    "fqn": "borat (borat: cultural learnings of america for make benefit glorious nation of kazakhstan) larry charles 2006 [estados unidos]"
+    "year": "2006",
+    "director": "Larry Charles"
   },
   {
-    "year": "2005",
     "title": "Sin City",
     "original_title": "Sin City",
     "country": "Estados Unidos",
-    "director": "Robert Rodriguez, Quentin Tarantino, Frank Miller",
+    "fqn": "sin city (sin city) robert rodriguez, quentin tarantino, frank miller 2005 [estados unidos]",
     "date": "2012-09-14",
-    "fqn": "sin city (sin city) robert rodriguez, quentin tarantino, frank miller 2005 [estados unidos]"
+    "year": "2005",
+    "director": "Robert Rodriguez, Quentin Tarantino, Frank Miller"
   },
   {
-    "year": "1996",
     "title": "Trainspotting",
     "original_title": "Trainspotting",
     "country": "Reino Unido",
-    "director": "Danny Boyle",
+    "fqn": "trainspotting (trainspotting) danny boyle 1996 [reino unido]",
     "date": "2012-09-07",
-    "fqn": "trainspotting (trainspotting) danny boyle 1996 [reino unido]"
+    "year": "1996",
+    "director": "Danny Boyle"
   },
   {
-    "year": "1999",
     "title": "El Club de la Pelea",
     "original_title": "Fight Club",
     "country": "Estados Unidos",
-    "director": "David Fincher",
+    "fqn": "el club de la pelea (fight club) david fincher 1999 [estados unidos]",
     "date": "2012-08-31",
-    "fqn": "el club de la pelea (fight club) david fincher 1999 [estados unidos]"
+    "year": "1999",
+    "director": "David Fincher"
   },
   {
-    "year": "2006",
     "title": "Un mundo maravilloso",
     "original_title": "Un mundo maravilloso",
     "country": "M\u00e9xico",
-    "director": "Luis Estrada",
+    "fqn": "un mundo maravilloso (un mundo maravilloso) luis estrada 2006 [mexico]",
     "date": "2012-06-22",
-    "fqn": "un mundo maravilloso (un mundo maravilloso) luis estrada 2006 [mexico]"
+    "year": "2006",
+    "director": "Luis Estrada"
   },
   {
-    "year": "2000",
     "title": "Amnesia",
     "original_title": "Memento",
     "country": "Estados Unidos",
-    "director": "Christopher Nolan",
+    "fqn": "amnesia (memento) christopher nolan 2000 [estados unidos]",
     "date": "2012-06-15",
-    "fqn": "amnesia (memento) christopher nolan 2000 [estados unidos]"
+    "year": "2000",
+    "director": "Christopher Nolan"
   },
   {
-    "year": "1995",
     "title": "Dia de la bestia",
     "original_title": "El d\u00eda de la bestia",
     "country": "Espa\u00f1a",
-    "director": "\u00c1lex de la Iglesia",
+    "fqn": "dia de la bestia (el dia de la bestia) alex de la iglesia 1995 [espana]",
     "date": "2011-06-08",
-    "fqn": "dia de la bestia (el dia de la bestia) alex de la iglesia 1995 [espana]"
+    "year": "1995",
+    "director": "\u00c1lex de la Iglesia"
   },
   {
-    "year": "1979",
     "title": "La vida de Brian",
     "original_title": "Monty Python's Life of Brian",
     "country": "Reino Unido",
-    "director": "Terry Jones",
+    "fqn": "la vida de brian (monty python's life of brian) terry jones 1979 [reino unido]",
     "date": "2012-06-01",
-    "fqn": "la vida de brian (monty python's life of brian) terry jones 1979 [reino unido]"
+    "year": "1979",
+    "director": "Terry Jones"
   },
   {
-    "year": "1994",
     "title": "Pulp fiction",
     "original_title": "Pulp Fiction",
     "country": "Estados Unidos",
-    "director": "Quentin Tarantino",
+    "fqn": "pulp fiction (pulp fiction) quentin tarantino 1994 [estados unidos]",
     "date": "2012-05-18",
-    "fqn": "pulp fiction (pulp fiction) quentin tarantino 1994 [estados unidos]"
+    "year": "1994",
+    "director": "Quentin Tarantino"
   },
   {
-    "year": "1977",
     "title": "Annie Hall",
     "original_title": "Annie Hall",
     "country": "Estados Unidos",
-    "director": "Woody Allen",
+    "fqn": "annie hall (annie hall) woody allen 1977 [estados unidos]",
     "date": "2012-05-11",
-    "fqn": "annie hall (annie hall) woody allen 1977 [estados unidos]"
+    "year": "1977",
+    "director": "Woody Allen"
   },
   {
-    "year": "2003",
     "title": "Oldboy",
     "original_title": "Oldeuboi",
     "country": "Corea del Sur",
-    "director": "Park Chan-wook",
+    "fqn": "oldboy (oldeuboi) park chan-wook 2003 [corea del sur]",
     "date": "2012-05-04",
-    "fqn": "oldboy (oldeuboi) park chan-wook 2003 [corea del sur]"
+    "year": "2003",
+    "director": "Park Chan-wook"
   },
   {
-    "year": "1994",
     "title": "Comer, beber, amar",
     "original_title": "Yin shi nan nu",
     "country": "Taiwan",
-    "director": "Ang Lee",
+    "fqn": "comer, beber, amar (yin shi nan nu) ang lee 1994 [taiwan]",
     "date": "2011-05-19",
-    "fqn": "comer, beber, amar (yin shi nan nu) ang lee 1994 [taiwan]"
+    "year": "1994",
+    "director": "Ang Lee"
   },
   {
-    "year": "1989",
     "title": "El cocinero, el ladr\u00f3n, su esposa y su amante",
     "original_title": "The Cook, the Thief, his wife and her lover",
     "country": "Reino Unido",
-    "director": "Peter Greenaway",
+    "fqn": "el cocinero, el ladron, su esposa y su amante (the cook, the thief, his wife and her lover) peter greenaway 1989 [reino unido]",
     "date": "2011-05-12",
-    "fqn": "el cocinero, el ladron, su esposa y su amante (the cook, the thief, his wife and her lover) peter greenaway 1989 [reino unido]"
+    "year": "1989",
+    "director": "Peter Greenaway"
   },
   {
-    "year": "2003",
     "title": "Los carniceros verdes",
     "original_title": "De gr\u00f8nne slagtere",
     "country": "Dinamarca",
-    "director": "Anders Thomas Jensen",
+    "fqn": "los carniceros verdes (de gr\u00f8nne slagtere) anders thomas jensen 2003 [dinamarca]",
     "date": "2011-04-28",
-    "fqn": "los carniceros verdes (de gr\u00f8nne slagtere) anders thomas jensen 2003 [dinamarca]"
+    "year": "2003",
+    "director": "Anders Thomas Jensen"
   },
   {
-    "year": "1955",
     "title": "Las diabolicas",
     "original_title": "Les diaboliques",
     "country": "Francia",
-    "director": "Henri-Geroges Clouzot",
+    "fqn": "las diabolicas (les diaboliques) henri-geroges clouzot 1955 [francia]",
     "date": "2011-04-14",
-    "fqn": "las diabolicas (les diaboliques) henri-geroges clouzot 1955 [francia]"
+    "year": "1955",
+    "director": "Henri-Geroges Clouzot"
   },
   {
-    "year": "2006",
     "title": "Renacimiento",
     "original_title": "Renaissance",
     "country": "Francia",
-    "director": "Christian Volckman",
+    "fqn": "renacimiento (renaissance) christian volckman 2006 [francia]",
     "date": "2011-04-07",
-    "fqn": "renacimiento (renaissance) christian volckman 2006 [francia]"
+    "year": "2006",
+    "director": "Christian Volckman"
   },
   {
-    "year": "2002",
     "title": "Ciudad de Dios",
     "original_title": "Cidade de Deus",
     "country": "Brasil",
-    "director": "Fernando Meirelles, K\u00e1tia Lund",
+    "fqn": "ciudad de dios (cidade de deus) fernando meirelles, katia lund 2002 [brasil]",
     "date": "2011-03-31",
-    "fqn": "ciudad de dios (cidade de deus) fernando meirelles, katia lund 2002 [brasil]"
+    "year": "2002",
+    "director": "Fernando Meirelles, K\u00e1tia Lund"
   },
   {
-    "year": "2000",
     "title": "Picaros ladrones",
     "original_title": "Small Time Crooks",
     "country": "Estados Unidos",
-    "director": "Woody Allen",
+    "fqn": "picaros ladrones (small time crooks) woody allen 2000 [estados unidos]",
     "date": "2011-03-24",
-    "fqn": "picaros ladrones (small time crooks) woody allen 2000 [estados unidos]"
+    "year": "2000",
+    "director": "Woody Allen"
   },
   {
-    "year": "2006",
     "title": "El Violin",
     "original_title": "El viol\u00edn",
     "country": "M\u00e9xico",
-    "director": "Francisco Vargas",
+    "fqn": "el violin (el violin) francisco vargas 2006 [mexico]",
     "date": "2011-03-10",
-    "fqn": "el violin (el violin) francisco vargas 2006 [mexico]"
+    "year": "2006",
+    "director": "Francisco Vargas"
   },
   {
-    "year": "2002",
     "title": "El Violinista",
     "original_title": "He ni zai yi qi (Together)",
     "country": "China, Corea del Sur",
-    "director": "Kaige Chen",
+    "fqn": "el violinista (he ni zai yi qi (together)) kaige chen 2002 [china, corea del sur]",
     "date": "2011-03-03",
-    "fqn": "el violinista (he ni zai yi qi (together)) kaige chen 2002 [china, corea del sur]"
+    "year": "2002",
+    "director": "Kaige Chen"
   },
   {
-    "year": "2004",
     "title": "La Vida es un milagro",
     "original_title": "La vie est un miracle (\u017divot je \u010dudo)",
     "country": "Francia, Serbia-Montenegro",
-    "director": "Emir Kusturica",
+    "fqn": "la vida es un milagro (la vie est un miracle (zivot je cudo)) emir kusturica 2004 [francia, serbia-montenegro]",
     "date": "2011-02-24",
-    "fqn": "la vida es un milagro (la vie est un miracle (zivot je cudo)) emir kusturica 2004 [francia, serbia-montenegro]"
+    "year": "2004",
+    "director": "Emir Kusturica"
   },
   {
-    "year": "2009",
     "title": "Los viajes del viento",
     "original_title": "Los viajes del viento",
     "country": "Colombia",
-    "director": "Ciro Guerra",
+    "fqn": "los viajes del viento (los viajes del viento) ciro guerra 2009 [colombia]",
     "date": "2011-02-17",
-    "fqn": "los viajes del viento (los viajes del viento) ciro guerra 2009 [colombia]"
+    "year": "2009",
+    "director": "Ciro Guerra"
   }
 ]);
