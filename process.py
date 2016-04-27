@@ -49,3 +49,16 @@ if __name__ == '__main__':
 
         if not os.path.isdir('proyecciones/%s'%dir_name):
             os.mkdir('proyecciones/%s'%dir_name)
+        if not os.path.isfile('proyecciones/%s/data.yaml'%dir_name):
+            with open('proyecciones/%s/data.yaml'%dir_name, 'w') as data_file:
+                data_file.write("""Título original: Moonrise Kingdom
+Año: <año>
+Duración: <n> min.
+País: <país>
+Director: <director>
+Guión: <guión>
+Música: <música>
+Fotografía: <fotografía>
+Género: <genero>
+Sinopsis:
+    Bla bla bla""")
