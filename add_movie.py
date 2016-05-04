@@ -22,9 +22,9 @@ if __name__ == '__main__':
 	data.insert(0, item)
 
 	with open('pelis.jsonp', 'w') as jsonp:
-			jsonp.write('mvm.loadItems(')
-			jsonp.write(json.dumps(data, indent=2))
-			jsonp.write(');')
+		jsonp.write('mvm.loadItems(')
+		jsonp.write(json.dumps(data, indent=2))
+		jsonp.write(');')
 
 	dir_name = 'proyecciones/%s_%s'%(item['date'], item['title'])
 
