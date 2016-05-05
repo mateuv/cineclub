@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import csv
 import os
 
 if __name__ == '__main__':
@@ -26,8 +27,23 @@ if __name__ == '__main__':
 		jsonp.write(json.dumps(data, indent=2))
 		jsonp.write(');')
 
+	csv_data = list(csv.reader(open('pelis.csv', 'r')))
+
+	csv_data.insert(0, [
+		item['title'],
+		item['original_title'],
+		item['director'],
+		item['year'],
+		item['country'],
+		item['date'],
+	])
+
+	csv_save = csv.writer(open('pelis.csv', 'w'))
+	csv_save.writerows(csv_data)
+
 	dir_name = 'proyecciones/%s_%s'%(item['date'], item['title'])
 
-	os.mkdir('proyecciones/%s_%s'%(item['date'], item['title']))
+	if not os.path.isfile('proyecciones/%s_%s'%(item['date'], item['title'])):
+		os.mkdir('proyecciones/%s_%s'%(item['date'], item['title']))
 
 	print('Ahora puedes poner los archivos en "%s"'%dir_name)
